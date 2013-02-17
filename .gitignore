@@ -1,0 +1,14 @@
+#.puc files#
+*.puc
+
+#images #
+*.jpg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.jpeg
+
+# files for text editors #
+*~
+
